@@ -15,4 +15,10 @@
   <scm>
     <developerConnection>scm:svn:http://commons.svn.cosmocode.de/log4j-config/trunk</developerConnection>
   </scm>
+  <dependencies>
+  	<dependency>
+  		<groupId>log4j</groupId>
+  		<artifactId>log4j</artifactId>
+  	</dependency>
+  </dependencies>
 </project>
