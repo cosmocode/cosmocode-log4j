@@ -3,7 +3,7 @@
   <groupId>de.cosmocode</groupId>
   <artifactId>log4j-config</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.1</version>
+  <version>1.1-SNAPSHOT</version>
   <name>CosmoCode Log4j Config</name>
   <url>http://www.cosmocode.de</url>
   <parent>
@@ -12,7 +12,7 @@
   	<version>1.5.0</version>
   </parent>
   <scm>
-    <developerConnection>scm:svn:https://commons.svn.cosmocode.de/log4j-config/tags/1.0.1</developerConnection>
+    <developerConnection>scm:svn:https://commons.svn.cosmocode.de/log4j-config/trunk</developerConnection>
   </scm>
   <dependencies>
   	<dependency>
