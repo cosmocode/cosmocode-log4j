@@ -7,17 +7,21 @@
   <name>CosmoCode Log4j Config</name>
   <url>http://www.cosmocode.de</url>
   <parent>
-  	<artifactId>cosmocode-parent</artifactId>
-  	<groupId>de.cosmocode</groupId>
-  	<version>1.5.0</version>
+    <artifactId>cosmocode-parent</artifactId>
+    <groupId>de.cosmocode</groupId>
+    <version>1.5.0</version>
   </parent>
   <scm>
     <developerConnection>scm:svn:https://commons.svn.cosmocode.de/log4j-config/trunk</developerConnection>
   </scm>
   <dependencies>
-  	<dependency>
-  		<groupId>log4j</groupId>
-  		<artifactId>log4j</artifactId>
-  	</dependency>
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-log4j12</artifactId>
+    </dependency>
   </dependencies>
 </project>
