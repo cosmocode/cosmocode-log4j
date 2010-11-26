@@ -11,7 +11,7 @@
   <version>1.4-SNAPSHOT</version>
   <packaging>jar</packaging>
   <scm>
-    <developerConnection>scm:git:git@github.com:cosmocode/cosmocode-log4j.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:cosmocode/${project.artifactId}.git</developerConnection>
   </scm>
   <repositories>
     <repository>
